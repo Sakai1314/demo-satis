@@ -12,7 +12,7 @@ import com.demo.web.dto.TestResultDto;
 import com.demo.web.form.TestForm;
 import com.demo.web.service.TestService;
 
-//テストコメント
+
 @Controller
 public class TestController {
 
